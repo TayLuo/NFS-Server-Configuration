@@ -108,3 +108,14 @@ Here are the following Steps:
 <p align="center"> </p>
 <img src="https://imgur.com/Wxopjye.png" height="80%" width="80%" >
 <br />    
+
+10. Test the mount point to verify we can connect
+   
+   Run the following command, see if there is connection, it has to be the NFS server's IP:
+   
+   		sudo mount 192.168.1.4:/share /mnt 
+   
+
+<p align="center"> </p>
+<img src="https://imgur.com/e7iSSL2.png" height="80%" width="80%" >
+<br />    

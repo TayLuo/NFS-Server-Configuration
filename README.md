@@ -24,6 +24,7 @@ Need Help in creating a Linux VM on Azure, please click [here](https://learn.mic
 Here are the following Steps: 
 
 1. Configure a virtual network
+   
    In the search box, type "virtual network", then fill the private network address you prefer.
 
 

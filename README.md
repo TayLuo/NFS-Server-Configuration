@@ -13,5 +13,9 @@ It has the following features:
 
 In this tutorial I will walk you through the configuration process, and provide screenshots along the way. 
 
+Prerequisite: 
+	
+        Two Linux VMs in your local machine or a cloud environment. For this demonstration, I will spin two VMs on [Azure](https://azure.microsoft.com/en-us/get-started/azure-portal)
+
 
 

@@ -89,3 +89,12 @@ Here are the following Steps:
 <p align="center"> </p>
 <img src="https://imgur.com/KuFQj4A.png" height="80%" width="80%" >
 <br />    
+
+8. Restart the service after configuration
+   
+  Now it is time to restart the service to see the share.:
+   
+   		sudo systemctl restart nfs-server.service
+   
+   		showmount -e
+  

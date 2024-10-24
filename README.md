@@ -159,3 +159,18 @@ Here are the following Steps:
 <p align="center"> </p>
 <img src="https://imgur.com/qCtY0Hs.png" height="80%" width="80%" >
 <br />   
+
+14. Let's check the mount point again
+   
+ 
+   
+   		df -h /mnt
+
+		
+
+		
+
+	
+<p align="center"> </p>
+<img src="https://imgur.com/28oxJ8T.png" height="80%" width="80%" >
+<br />    

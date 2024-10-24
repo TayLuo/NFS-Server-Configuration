@@ -70,7 +70,7 @@ Here are the following Steps:
 
 6. Add a shared directory
    
-  Let's create a directory to share out. We also need to prep it for other systems to connect and write by changing permissions.:
+   Let's create a directory to share out. We also need to prep it for other systems to connect and write by changing permissions.:
    
    		sudo mkdir /share
    
@@ -81,7 +81,7 @@ Here are the following Steps:
 
 7. Configure the /etc/exports directory
    
-  Add the line /share *(rw,sync,no_subtree_check) to /etc/exports to share out the directory.:
+   Add the line /share *(rw,sync,no_subtree_check) to /etc/exports to share out the directory.:
    
    		sudo vi /etc/exports
    
@@ -92,7 +92,7 @@ Here are the following Steps:
 
 8. Restart the service after configuration
    
-  Now it is time to restart the service to see the share.:
+   Now it is time to restart the service to see the share.:
    
    		sudo systemctl restart nfs-server.service
    

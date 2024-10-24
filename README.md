@@ -47,6 +47,7 @@ Here are the following Steps:
 4. Configure NFS Server on one VM acting as a server
    
    Once get access to the Server VM, run the following command:
+   
    	sudo apt update && sudo apt upgrade -y
    
    	sudo apt install nfs-kernel-server

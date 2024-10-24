@@ -111,11 +111,22 @@ Here are the following Steps:
 
 10. Test the mount point to verify we can connect
    
-   Run the following command, see if there is connection, it has to be the NFS server's IP:
+    Run the following command, see if there is connection, it has to be the NFS server's IP:
    
    		sudo mount 192.168.1.4:/share /mnt 
    
 
 <p align="center"> </p>
 <img src="https://imgur.com/e7iSSL2.png" height="80%" width="80%" >
+<br />    
+
+11. Let's examine the mount point
+    There will be a file system mounted to your client machine
+   
+   
+   		df -h /mnt
+   
+   		
+<p align="center"> </p>
+<img src="https://imgur.com/22PGam9.png" height="80%" width="80%" >
 <br />    

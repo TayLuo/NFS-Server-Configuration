@@ -48,6 +48,7 @@ Here are the following Steps:
    
    Once get access to the Server VM, run the following command:
    	sudo apt update && sudo apt upgrade -y
+   	sudo apt install nfs-kernel-server
 <p align="center"> </p>
 <img src="https://imgur.com/tdOU4Ep.png" height="80%" width="80%" >
 <br />   

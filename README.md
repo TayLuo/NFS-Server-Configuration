@@ -25,7 +25,8 @@ Here are the following Steps:
 
 1. Configure a virtual network
    
-   In the search box, type "virtual network", then fill the private network address you prefer.
-
-
+   In the search box, type "virtual network", then fill the private network address you prefer. Fill up the resource group (same group with your VMs).
+<p align="center"> </p>
+<img src="https://imgur.com/oj3UhmW.png" height="80%" width="80%" >
+<br />
    

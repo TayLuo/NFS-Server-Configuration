@@ -98,3 +98,13 @@ Here are the following Steps:
    
    		showmount -e
   
+9. Configure the client on the second VM
+   
+   Install the nfs-common client 
+   
+   		sudo apt update && sudo apt upgrade -y
+   
+   		sudo apt install nfs-common
+<p align="center"> </p>
+<img src="https://imgur.com/Wxopjye.png" height="80%" width="80%" >
+<br />    

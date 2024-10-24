@@ -141,3 +141,21 @@ Here are the following Steps:
 <p align="center"> </p>
 <img src="https://imgur.com/Xidk0u3.png" height="80%" width="80%" >
 <br />    
+
+13. Remove the mount point so we can mount it via /etc/fstab
+   
+    Run the following command add the following line " 192.168.104:/share /mnt nfs defaults 0 0" into the /etc/fstab file
+   
+   		sudo umount -l /mnt
+
+		sudo vi /etc/fstab
+
+		192.168.1.4:/share /mnt nfs defaults 0 0
+
+	
+<p align="center"> </p>
+<img src="https://imgur.com/kjs0yWK.png" height="80%" width="80%" >
+<br />    
+<p align="center"> </p>
+<img src="https://imgur.com/qCtY0Hs.png" height="80%" width="80%" >
+<br />   

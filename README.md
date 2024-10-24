@@ -10,3 +10,6 @@ Client-Server Architecture: In NFS, the server exports file systems that are mou
 Transparent Access: Files on a remote NFS server appear as part of the client’s local file system, making the access transparent.
 
 Centralized Data: NFS enables centralized storage and file management, which simplifies backup and file administration.
+
+
+

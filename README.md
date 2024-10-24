@@ -74,7 +74,18 @@ Here are the following Steps:
    
    		sudo mkdir /share
    
-   		chown nobody:nogroup /share
+   		sudo chown nobody:nogroup /share
 <p align="center"> </p>
 <img src="https://imgur.com/F6iKAQE.png" height="80%" width="80%" >
+<br />    
+
+7. Configure the /etc/exports directory
+   
+  Add the line /share *(rw,sync,no_subtree_check) to /etc/exports to share out the directory.:
+   
+   		sudo vi /etc/exports
+   
+   		/share *(rw,sync,no_subtree_check)
+<p align="center"> </p>
+<img src="https://imgur.com/KuFQj4A.png" height="80%" width="80%" >
 <br />    

@@ -17,5 +17,7 @@ Prerequisite:
 	
         Two Linux VMs in your local machine or a cloud environment. For this demonstration, I will spin two VMs on Azure
 
-Need Help on Sign up an account on [Azure](https://azure.microsoft.com/en-us/get-started/azure-portal)
+Need Help on Signing up an account on [Azure](https://azure.microsoft.com/en-us/get-started/azure-portal)
+Need Help in create a VM on Azure, please click [here](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
 
+Step

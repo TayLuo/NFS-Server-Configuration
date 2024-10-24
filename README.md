@@ -32,7 +32,14 @@ Here are the following Steps:
 
 2. Configure a virtual network IP Address
    
-   In the IP Address Section, Give an IP address range and its subnet
+   In the IP Address Section, Give an IP address range and its subnet, then click "Review && Create".
 <p align="center"> </p>
 <img src="https://imgur.com/tdOU4Ep.png" height="80%" width="80%" >
+<br />   
+
+3. Create Two Linux VMs on Azure
+   
+   If you need help with setting up VMs please visit this [Azure Support](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu) So when you create your VMs, please use the "virtual network" your created. I will provide a screenshot, so you know what to do.
+<p align="center"> </p>
+<img src="https://imgur.com/ehXVIkq.png" height="80%" width="80%" >
 <br />   

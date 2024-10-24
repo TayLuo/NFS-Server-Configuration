@@ -54,3 +54,16 @@ Here are the following Steps:
 <p align="center"> </p>
 <img src="https://imgur.com/zrGI037.png" height="80%" width="80%" >
 <br />   
+
+5. Verify NFS Server installation
+   
+   Enter the following command to verify the installation of NFS, port 2049 listening state, check if there is anything shared out:
+   
+   		dkpg -l | grep -i nfs
+   
+   		ss -ntulp | grep 2049
+
+		showmount -e
+<p align="center"> </p>
+<img src="https://imgur.com/fMs0z5V.png" height="80%" width="80%" >
+<br />    

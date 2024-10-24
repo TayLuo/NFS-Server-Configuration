@@ -19,6 +19,12 @@ Prerequisite:
 
 Need Help on Signing up an account on [Azure](https://azure.microsoft.com/en-us/get-started/azure-portal)
 
-Need Help in create a VM on Azure, please click [here](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
+Need Help in creating a Linux VM on Azure, please click [here](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
 
-Step
+Here are the following Steps: 
+
+1. Configure a virtual network
+   In the search box, type "virtual network", then fill the private network address you prefer.
+
+
+   

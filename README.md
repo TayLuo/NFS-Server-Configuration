@@ -67,3 +67,14 @@ Here are the following Steps:
 <p align="center"> </p>
 <img src="https://imgur.com/fMs0z5V.png" height="80%" width="80%" >
 <br />    
+
+6. Add a shared directory
+   
+  Let's create a directory to share out. We also need to prep it for other systems to connect and write by changing permissions.:
+   
+   		sudo mkdir /share
+   
+   		chown nobody:nogroup /share
+<p align="center"> </p>
+<img src="https://imgur.com/F6iKAQE.png" height="80%" width="80%" >
+<br />    

@@ -130,3 +130,14 @@ Here are the following Steps:
 <p align="center"> </p>
 <img src="https://imgur.com/22PGam9.png" height="80%" width="80%" >
 <br />    
+
+12. Let's verify we can write into this directory
+   
+    Run the following command:
+   
+   		sudo touch /mnt/test1
+   
+   		ls -l /mnt
+<p align="center"> </p>
+<img src="https://imgur.com/Xidk0u3.png" height="80%" width="80%" >
+<br />    

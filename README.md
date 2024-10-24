@@ -47,10 +47,9 @@ Here are the following Steps:
 4. Configure NFS Server on one VM acting as a server
    
    Once get access to the Server VM, run the following command:
-   Two Linux VMs in your local machine or a cloud environment. For this demonstration, I will spin two VMs on Azure
-   	sudo apt update && sudo apt upgrade -y
+   		sudo apt update && sudo apt upgrade -y
    
-   	sudo apt install nfs-kernel-server
+   		sudo apt install nfs-kernel-server
 <p align="center"> </p>
 <img src="https://imgur.com/zrGI037.png" height="80%" width="80%" >
 <br />   
